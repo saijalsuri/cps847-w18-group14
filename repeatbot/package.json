@@ -1,0 +1,16 @@
+{
+  "name": "repeatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/client": "^3.16.0",
+    "request": "^2.83.0",
+    "system-sleep": "^1.3.6"
+  }
+}
